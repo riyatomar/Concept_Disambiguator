@@ -39,7 +39,7 @@ xinacaryA_1,aXyAya_1,vi_Af_KyA_1-syawi_1,[6-tat_1]
 
 ## Installation Steps:
 
-1. git clone https://github.com/LC-Platform/concept_disambiguator.git
+1. git clone https://github.com/riyatomar/Concept_Disambiguator.git
 
 2. cd concept_disambiguator
 
